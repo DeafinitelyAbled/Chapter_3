@@ -22,7 +22,7 @@ import java.util.InputMismatchException;
  *		   the output of the program is: Input Mismatch Exception: java.util.InputMismatchException
  */
 
-public class Lab3 {
+public class LAB3 {
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
